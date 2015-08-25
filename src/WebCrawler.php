@@ -1,0 +1,1 @@
+%3C%3Fphp\n\nnamespace%20Saiyajin%5CCassis%3B\n\nclass%20WebCrawler%20extends%20BasicCrawler\n%7B\n%20%20\n%20%20public%20%24crawl%20%3D%20%5B%27HTTP%27%2C%20%27HTTPS%27%5D%3B\n%20%20\n%20%20public%20function%20stop%28%29\n%20%20%7B\n%20%20%20%20return%20NULL%3B\n%20%20%7D\n%20%20\n%20%20public%20function%20onMove%28%29%7B%7D\n%20%20\n%20%20\n%7D
